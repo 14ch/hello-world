@@ -1,2 +1,2 @@
 # hello-world
-How I met with GitHub
+A repository
